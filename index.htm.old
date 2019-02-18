@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>My Curriculum Vitae;</title>
+  <meta name="description" content="My Curriculum Vitae; présente mes competences, et quelques informations personnel">
+  <meta name="author" content="Christophe LEDUC" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
+	<!-- scripts -->
+	<script src="particules/particles.js"></script>
+	<script src="../jquery/jquery.min.js" type="text/javascript"></script>
+	<script src="../bootstrap/bootstrap.min.js"></script>
+  <!-- <link rel="stylesheet" type="text/css" href="bootstrap.min.css"> -->
+  <link rel="stylesheet" media="screen" href="css/style.css">
+<!-- <script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/F787B071-03CD-674B-B0ED-85E730F451FF/main.js" charset="UTF-8">
+</script> -->
+</head>
+
+<body>
+	
+	<div id="particles-js">
+
+<!-- scripts -->
+<!-- <script src="particules/particles.js"></script>
+<script src="js/app.js"></script> 
+	<section id="main"> -->
+	
+	<div class="titre">
+	<br></br>
+	<h1><center>Curriculum Vit&#230;</center></h1> <!-- Titre -->
+	<br></br>
+	</div>
+	
+	<div class="table"> <!-- Cadre principal -->
+		<div class="range-lg-3"> <!-- Sous-Cadre gauche -->
+			<div class="mon_nom"> <!-- Nom -->
+				<h2><center>Christophe LEDUC</center></h2>
+				<br></br>
+				<h3><center>Dev Web</center></h3>
+				<br></br>
+			</div>
+			
+			<div class="case-lg-4"> <!-- Photo -->
+							<p class="flotte"><img src="media/CL1.png" alt="Ma photo de profil"></p>
+			</div> <!-- Fin Tableau presentation -->
+			
+			
+		</div>
+		<div class="table_001"> <!-- Sous-Cadre droite -->
+			<div class="comptces"> <!-- Competances -->
+								<ul>
+									<li>Comp&#233;tences:</li><br></br>
+									<li>Administrateur réseaux </li>
+									<li>Développement          </li>
+									<li>consulting             </li>
+									<li>Blockchain             </li>
+									<li>Sécurité des réseaux   </li>
+									<li>Analyses d'anomalies </li>
+									<li>Coordination de projets</li>
+								</ul>
+							 <!-- Fin Tableau competances -->
+			</div>
+		</div>
+		<div class="table_002"> <!-- Sous-Cadre droite --> 
+			<div class="case-lg-3"> <!-- presentation -->
+				<div class="vendeur">
+							<p>
+								&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Autodidacte depuis 1991, mon parcours m’a permis d’acquérir une certaine expérience auprès des grands comptes de la région parisienne.<br></br>
+							</p>
+							<p>
+								<br></br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Depuis peu sur la région Grenobloise, j’explore et j’approfondi de nouvelles compétences avec le Campus Numérique.
+							</p>
+				</div>			
+			</div>
+				 
+			<div class="case-lg-5">
+				<table class="table_exp"> <!-- Tableau experience -->
+					
+					<!-- <caption>Experience<br></br></caption> -->
+					<tr>
+						<th>Experience:<br></br></th>
+					</tr>
+					<tr>
+						<th>Entreprise<br></br></th>
+						<th>Type de préstation<br></br></th>
+					</tr>
+					<tr>
+						<td width=10%>France T&#233;l&#233;com</td>
+						<td width=50%>Administration réseaux (Microsoft, Linux, Citrix)</td>
+					</tr>
+					<tr>
+						<td>Carl Zeiss</td>
+						<td>Administration réseaux (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>EDF</td>
+						<td>Administration réseaux (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>SB Alliance (Bongrain)</td>
+						<td>Administration réseaux (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>Yves Saint Laurent</td>
+						<td>Assistance utilisateurs (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>Lyonnaise des Eaux</td>
+						<td>Investigations sur anomalies (Microsoft, Lotus Notes)</td>
+					</tr>
+					<tr>
+						<td>ESCA</td>
+						<td>Déploiement (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>Ecole Cath&#233;drale (Notre-Dame)</td>
+						<td>Déploiement (Microsoft)</td>
+					</tr>
+					<tr>
+						<td>H&#244;pital Lariboisière</td>
+						<td>Déploiement; Assistance utilisateurs (Microsoft, Linux)</td>
+					</tr>
+					<tr>
+						<td>ATCI</td>
+						<td>Pr&#233;stataire de services</td>
+					</tr>
+					<tr>
+						<td>ATD Electronique</td>
+						<td>Pr&#233;stataire de services</td>
+					</tr>
+				</table> <!-- Fin de tableau Exp -->
+				 
+			</div>
+		</div>
+	</div>
+		
+	
+	<br></br>
+
+	
+		<div class="case-lg-8">
+		<!-- Liens -->
+		
+			<table class="table_liens">			
+				<tr>
+					<th><center><a href="index.htm" target="_blank">Curriculum Vit&#230</a></center><br></br></th>
+					<th><center><a href="hobby.htm" target="_blank">Hobby</a></center><br></br></th>
+					<th><center><a href="media.htm" target="_blank">Media</a></center><br></br></th>
+					<th><center><a href="contact.htm" target="_blank">Contact</a></center><br></br></th>
+				</tr>	
+			</table>
+		</div>
+
+		
+<!-- particles.js container -->
+	</div> 
+</body>
+<script src="js/app.js"></script>
+</html>

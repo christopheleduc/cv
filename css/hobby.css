@@ -1,0 +1,111 @@
+body {
+  background-color: black;
+}
+
+.formule{
+	display: block;
+	width: 100%;
+	position: absolute;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+	
+}
+
+.laisse{
+	width: 100%;
+	position: absolute;
+	top: 170px;
+	left: 15px;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	color: #ffffff;
+	margin-left:0px;
+}
+
+.table_liens{
+	width: 100%;
+	position: absolute;
+	top: 450px;
+	/* left: 0px; */
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.media{
+	display: block;
+	width: 100%;
+	position: absolute;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+	
+}
+
+.hobby{
+	display: inline-block;
+	width: 100%;
+	position: absolute;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+	
+}
+
+.paragraphe_01{
+	display: block;
+	width: 100%;
+	position: absolute;
+	top: 170px;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.paragraphe_02{
+	display: inline-block;
+	width: 100%;
+	position: absolute;
+	top: 470px;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.paragraphe_03{
+	display: inline-block;
+	width: 100%;
+	position: absolute;
+	top: 700px;
+	/* padding-right:15px;
+	padding-left:15px; */
+	margin-right:auto;
+	margin-left:auto;
+	padding: 20px;
+	color: #ffffff;
+	text-align: center;
+}
